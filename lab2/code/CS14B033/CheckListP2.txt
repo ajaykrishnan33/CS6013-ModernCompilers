@@ -1,0 +1,31 @@
+1) Have you tarred + gzipped the file as CS14B033.P2.tar.gz (your 8-character roll number)?
+  Yes
+
+2) Does your tar file expand (by using the command tar xzf) to the base directory named CS14B033 (your 8-character roll number)?
+  Yes
+Does CS14B033 contain a directory named P2?
+  Yes
+
+3) Have you removed all the class files and jar files from your tar ball?
+  Yes
+
+4) Does CSXXXXXX/P2 contain P2.java in it that can be compiled using javac?
+  Yes
+
+5) IMPORTANT: Have you sent the generated TACoJava program to the standard output stream (System.out)?
+  Yes
+
+6) Have you removed all the debugging messages that your program may output to the standard output?
+  Yes
+
+7) Is (some part of) the assignment plagiarized? If yes, Plagiarism Declarations (if any):
+  No
+
+8) Is this checklist present in your folder CSXXXXXX (your 8-character roll number)?
+  Yes
+
+9) Is this checklist named "CheckListP2.txt"?
+  Yes
+  
+Any other comments:
+

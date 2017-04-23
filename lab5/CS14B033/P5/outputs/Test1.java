@@ -1,0 +1,122 @@
+class Test1 { 
+public static void main ( String [ ] args ) { 
+int main_Test1Aux_temp24 ; 
+int Test1_x915 ; 
+Test1Aux main_Test1Aux_temp23 ; 
+int Test1_Test1Aux_prod61016 ; 
+Test1Aux Test1_func2_Test1Aux_temp1320 ; 
+int Test1_Test1Aux_b51221 ; 
+int Test1_Test1Aux_a41122 ; 
+Test1Aux p0 ; 
+int q1 ; 
+int r2 ; 
+int Test1_a717 ; 
+int Test1_b818 ; 
+int Test1_func2_Test1Aux_temp1419 ; 
+int int_temp1 ;
+int int_temp2 ;
+int int_temp3 ;
+int int_temp4 ;
+boolean boolean_temp1 ;
+boolean boolean_temp2 ;
+boolean boolean_temp3 ;
+boolean boolean_temp4 ;
+int[] intarr_temp1 ;
+int[] intarr_temp2 ;
+int[] intarr_temp3 ;
+int[] intarr_temp4 ;
+Test1 test1_temp1 ;
+Test1 test1_temp2 ;
+Test1 test1_temp3 ;
+Test1 test1_temp4 ;
+Test1Aux test1aux_temp1 ;
+Test1Aux test1aux_temp2 ;
+Test1Aux test1aux_temp3 ;
+Test1Aux test1aux_temp4 ;
+int_temp1 = 5;
+q1 = int_temp1;
+int_temp1 = 7;
+r2 = int_temp1;
+test1aux_temp1 = new Test1Aux();
+p0 = test1aux_temp1;
+Test1_a717 = q1;
+Test1_b818 = r2;
+main_Test1Aux_temp23 = p0 ; 
+Test1_Test1Aux_a41122 = Test1_a717;
+Test1_Test1Aux_b51221 = Test1_b818;
+Test1_func2_Test1Aux_temp1320 = main_Test1Aux_temp23 ; 
+int_temp1 = Test1_Test1Aux_a41122 * Test1_Test1Aux_b51221 ; 
+Test1_Test1Aux_prod61016 = int_temp1;
+Test1_func2_Test1Aux_temp1419 = Test1_Test1Aux_prod61016 ; 
+Test1_x915 = Test1_func2_Test1Aux_temp1419;
+main_Test1Aux_temp24 = Test1_a717 ; 
+q1 = main_Test1Aux_temp24;
+System.out.println ( q1) ; 
+} 
+} 
+class Test1Aux { 
+int x3 ; 
+public int func1 ( int a4 , int b5 ) { 
+int prod6 ; 
+int int_temp1 ;
+int int_temp2 ;
+int int_temp3 ;
+int int_temp4 ;
+boolean boolean_temp1 ;
+boolean boolean_temp2 ;
+boolean boolean_temp3 ;
+boolean boolean_temp4 ;
+int[] intarr_temp1 ;
+int[] intarr_temp2 ;
+int[] intarr_temp3 ;
+int[] intarr_temp4 ;
+Test1 test1_temp1 ;
+Test1 test1_temp2 ;
+Test1 test1_temp3 ;
+Test1 test1_temp4 ;
+Test1Aux test1aux_temp1 ;
+Test1Aux test1aux_temp2 ;
+Test1Aux test1aux_temp3 ;
+Test1Aux test1aux_temp4 ;
+int_temp1 = a4 * b5 ; 
+prod6 = int_temp1;
+return prod6 ; 
+} 
+public int func2 ( int a7 , int b8 ) { 
+int Test1Aux_prod610 ; 
+int Test1Aux_a411 ; 
+int Test1Aux_b512 ; 
+int func2_Test1Aux_temp14 ; 
+int x9 ; 
+Test1Aux func2_Test1Aux_temp13 ; 
+int int_temp1 ;
+int int_temp2 ;
+int int_temp3 ;
+int int_temp4 ;
+boolean boolean_temp1 ;
+boolean boolean_temp2 ;
+boolean boolean_temp3 ;
+boolean boolean_temp4 ;
+int[] intarr_temp1 ;
+int[] intarr_temp2 ;
+int[] intarr_temp3 ;
+int[] intarr_temp4 ;
+Test1 test1_temp1 ;
+Test1 test1_temp2 ;
+Test1 test1_temp3 ;
+Test1 test1_temp4 ;
+Test1Aux test1aux_temp1 ;
+Test1Aux test1aux_temp2 ;
+Test1Aux test1aux_temp3 ;
+Test1Aux test1aux_temp4 ;
+Test1Aux_a411 = a7;
+Test1Aux_b512 = b8;
+func2_Test1Aux_temp13 = this ; 
+int_temp1 = Test1Aux_a411 * Test1Aux_b512 ; 
+Test1Aux_prod610 = int_temp1;
+func2_Test1Aux_temp14 = Test1Aux_prod610 ; 
+x9 = func2_Test1Aux_temp14;
+return a7 ; 
+} 
+} 
+ 

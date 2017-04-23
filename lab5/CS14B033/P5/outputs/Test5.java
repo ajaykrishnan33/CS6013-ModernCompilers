@@ -1,0 +1,143 @@
+class Test5 { 
+public static void main ( String [ ] args ) { 
+Child1 main_Child1_temp18 ; 
+int main_Parent1_temp14 ; 
+Parent1 main_Parent1_temp13 ; 
+Child1 p7 ; 
+int Test5_a110 ; 
+int q8 ; 
+Parent1 r9 ; 
+int Test5_a415 ; 
+int Test5_x211 ; 
+int Test5_y312 ; 
+int main_Child1_temp19 ; 
+int Test5_x516 ; 
+int Test5_y617 ; 
+int int_temp1 ;
+int int_temp2 ;
+int int_temp3 ;
+int int_temp4 ;
+boolean boolean_temp1 ;
+boolean boolean_temp2 ;
+boolean boolean_temp3 ;
+boolean boolean_temp4 ;
+int[] intarr_temp1 ;
+int[] intarr_temp2 ;
+int[] intarr_temp3 ;
+int[] intarr_temp4 ;
+Parent1 Parent1_temp1 ;
+Parent1 Parent1_temp2 ;
+Parent1 Parent1_temp3 ;
+Parent1 Parent1_temp4 ;
+Child1 Child1_temp1 ;
+Child1 Child1_temp2 ;
+Child1 Child1_temp3 ;
+Child1 Child1_temp4 ;
+Test5 Test5_temp1 ;
+Test5 Test5_temp2 ;
+Test5 Test5_temp3 ;
+Test5 Test5_temp4 ;
+Child1_temp1 = new Child1();
+p7 = Child1_temp1;
+Parent1_temp1 = new Parent1();
+r9 = Parent1_temp1;
+int_temp1 = 5;
+q8 = int_temp1;
+Test5_a415 = q8;
+main_Child1_temp18 = p7 ; 
+int_temp1 = 2;
+Test5_y617 = int_temp1;
+int_temp1 = Test5_y617 * Test5_a415 ; 
+Test5_x516 = int_temp1;
+int_temp1 = 1;
+Test5_y617 = int_temp1;
+int_temp1 = Test5_x516 + Test5_y617 ; 
+Test5_x516 = int_temp1;
+main_Child1_temp19 = Test5_x516 ; 
+q8 = main_Child1_temp19;
+Test5_a110 = q8;
+main_Parent1_temp13 = r9 ; 
+int_temp1 = 2;
+Test5_y312 = int_temp1;
+int_temp1 = Test5_y312 * Test5_a110 ; 
+Test5_x211 = int_temp1;
+main_Parent1_temp14 = Test5_x211 ; 
+q8 = main_Parent1_temp14;
+} 
+} 
+class Parent1 { 
+int x0 ; 
+public int func1 ( int a1 ) { 
+int x2 ; 
+int y3 ; 
+int int_temp1 ;
+int int_temp2 ;
+int int_temp3 ;
+int int_temp4 ;
+boolean boolean_temp1 ;
+boolean boolean_temp2 ;
+boolean boolean_temp3 ;
+boolean boolean_temp4 ;
+int[] intarr_temp1 ;
+int[] intarr_temp2 ;
+int[] intarr_temp3 ;
+int[] intarr_temp4 ;
+Parent1 Parent1_temp1 ;
+Parent1 Parent1_temp2 ;
+Parent1 Parent1_temp3 ;
+Parent1 Parent1_temp4 ;
+Child1 Child1_temp1 ;
+Child1 Child1_temp2 ;
+Child1 Child1_temp3 ;
+Child1 Child1_temp4 ;
+Test5 Test5_temp1 ;
+Test5 Test5_temp2 ;
+Test5 Test5_temp3 ;
+Test5 Test5_temp4 ;
+int_temp1 = 2;
+y3 = int_temp1;
+int_temp1 = y3 * a1 ; 
+x2 = int_temp1;
+return x2 ; 
+} 
+} 
+class Child1 { 
+public int func1 ( int a4 ) { 
+int x5 ; 
+int y6 ; 
+int int_temp1 ;
+int int_temp2 ;
+int int_temp3 ;
+int int_temp4 ;
+boolean boolean_temp1 ;
+boolean boolean_temp2 ;
+boolean boolean_temp3 ;
+boolean boolean_temp4 ;
+int[] intarr_temp1 ;
+int[] intarr_temp2 ;
+int[] intarr_temp3 ;
+int[] intarr_temp4 ;
+Parent1 Parent1_temp1 ;
+Parent1 Parent1_temp2 ;
+Parent1 Parent1_temp3 ;
+Parent1 Parent1_temp4 ;
+Child1 Child1_temp1 ;
+Child1 Child1_temp2 ;
+Child1 Child1_temp3 ;
+Child1 Child1_temp4 ;
+Test5 Test5_temp1 ;
+Test5 Test5_temp2 ;
+Test5 Test5_temp3 ;
+Test5 Test5_temp4 ;
+int_temp1 = 2;
+y6 = int_temp1;
+int_temp1 = y6 * a4 ; 
+x5 = int_temp1;
+int_temp1 = 1;
+y6 = int_temp1;
+int_temp1 = x5 + y6 ; 
+x5 = int_temp1;
+return x5 ; 
+} 
+} 
+ 
